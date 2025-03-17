@@ -1,2 +1,4 @@
-# AI-Meets-Iceberg_Titanic-Survival-Predictions
-AI Meets Iceberg Titanic Survival Predictions
+🚢 Titanic - Machine Learning from Disaster
+Predicting Titanic Survivors using Machine Learning
+
+
