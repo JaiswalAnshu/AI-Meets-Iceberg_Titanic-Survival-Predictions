@@ -61,3 +61,10 @@ The dataset includes following features:
 ## 📌 Results
 Achieved a decent accuracy score using Random Forest Classifier, demonstrating the effectiveness of ML models in classification problems!
 
+## 📂 Project Structure
+📂 AI-Meets-Iceberg_Titanic-Survival-Predictions  
+│── 📊 Dataset/  
+│── 📜 AI-Meets-Iceberg_Titanic-Survival-Predictions.ipynb  
+│── 📜 README.md  
+│── 📜 requirements.txt  
+
