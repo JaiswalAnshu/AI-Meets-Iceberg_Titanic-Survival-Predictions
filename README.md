@@ -1,12 +1,14 @@
-🚢 Titanic - Machine Learning from Disaster
-Predicting Titanic Survivors using Machine Learning
+# 🚢 Titanic - Machine Learning from Disaster
+**Predicting Titanic Survivors using Machine Learning**
 
-📌 Overview
+![Titanic_pic](https://github.com/user-attachments/assets/7e21ba16-54ac-408f-92ec-9c5679e325eb)
+
+## 📌 Overview
 This project focuses on using the Titanic passenger data (name, age, price of ticket, etc) to try to predict survival of Passangers in the Titanic ship .
 
-The data has three files :
-(1) train.csv : This contains the Data for training the model .
-(2) test.csv : This contains the Data for testing the model . 
+The data has three files :<br>
+(1) train.csv : This contains the Data for training the model .<br>
+(2) test.csv : This contains the Data for testing the model . <br>
 (3) submission.csv : This contains the Data we have got as a result of the model training . 
 
 The train.csv has one extra column named "Survived" which can be used to determine whether each passenger survived or not:
@@ -16,7 +18,7 @@ The train.csv has one extra column named "Survived" which can be used to determi
 
 Using the patterns found in train.csv, the survival chances for passengers in test.csv were predicted . And this was done using Random Forest algorithm .
 
-📂 Dataset
+## 📂 Dataset
 The dataset includes following features:
 
 - survival	(0 = No, 1 = Yes)
@@ -32,30 +34,30 @@ The dataset includes following features:
 - Survival status (Target variable: Survived = 1, Not Survived = 0)
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 - Python
 - Pandas, NumPy (Data Manipulation)
 - Matplotlib, Seaborn (Data Visualization)
 - Scikit-Learn (Machine Learning Model)
 
-📊 Steps Followed:
+## 📊 Steps Followed:
 
-1️⃣ Exploratory Data Analysis (EDA)
-- Checking missing values & data distribution
-- Visualizing survival rates with respect to different features .
+<br>1️⃣ Exploratory Data Analysis (EDA)
+<br>- Checking missing values & data distribution
+<br>- Visualizing survival rates with respect to different features .
 
-2️⃣ Feature Engineering
-- Handling missing values
-- Converting categorical variables using pd.get_dummies().
+<br>2️⃣ Feature Engineering
+<br>- Handling missing values
+<br>- Converting categorical variables using pd.get_dummies().
 
-3️⃣ Model Building
-- Used Random Forest Classifier for prediction.
-- Tuned n_estimators, max_depth, and random_state
+<br>3️⃣ Model Building
+<br>- Used Random Forest Classifier for prediction.
+<br>- Tuned n_estimators, max_depth, and random_state
 
-4️⃣ Evaluation & Submission
-- Predicted survival on test data
-- Generated CSV file  for submission
+<br>4️⃣ Evaluation & Submission
+<br>- Predicted survival on test data
+<br>- Generated CSV file  for submission
 
-📌 Results
+## 📌 Results
 Achieved a decent accuracy score using Random Forest Classifier, demonstrating the effectiveness of ML models in classification problems!
 
