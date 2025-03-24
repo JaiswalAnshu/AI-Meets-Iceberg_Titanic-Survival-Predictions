@@ -72,6 +72,6 @@ Achieved a decent accuracy score using Random Forest Classifier, demonstrating t
 💡 Have suggestions or feedback? Feel free to open an issue or contribute!
 🚀 If you find this useful, don’t forget to ⭐ star this repository!
 
-📢 Connect with me on LinkedIn: (http://linkedin.com/in/anshupjaiswal/)
+📢 Connect with me on LinkedIn: [Anshu Jaiswal](http://linkedin.com/in/anshupjaiswal/)  
 
 🔗 GitHub Repository: https://github.com/JaiswalAnshu
