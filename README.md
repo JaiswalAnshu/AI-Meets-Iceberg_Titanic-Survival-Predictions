@@ -1,7 +1,7 @@
 # 🚢 Titanic - Machine Learning from Disaster
 **Predicting Titanic Survivors using Machine Learning**
 
-![Titanic_pic](https://github.com/user-attachments/assets/7e21ba16-54ac-408f-92ec-9c5679e325eb)
+<img src="https://github.com/user-attachments/assets/7e21ba16-54ac-408f-92ec-9c5679e325eb" width="400" height="250"/>
 
 ## 📌 Overview
 This project focuses on using the Titanic passenger data (name, age, price of ticket, etc) to try to predict survival of Passangers in the Titanic ship .
